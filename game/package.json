@@ -16,5 +16,12 @@
     "url": "https://github.com/pine613/share-training-js/issues"
   },
   "homepage": "https://github.com/pine613/share-training-js",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "lodash": "^3.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.0"
+  }
 }
