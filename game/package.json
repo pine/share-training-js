@@ -18,10 +18,21 @@
   "homepage": "https://github.com/pine613/share-training-js",
   "private": true,
   "dependencies": {
+    "jquery": "^1.11.2",
     "lodash": "^3.6.0"
   },
   "devDependencies": {
+    "browserify": "^9.0.8",
+    "chromedriver": "^2.14.1",
+    "coffee-script": "^1.9.1",
+    "del": "^1.1.1",
     "gulp": "^3.8.11",
-    "gulp-plumber": "^1.0.0"
+    "gulp-plumber": "^1.0.0",
+    "gulp-util": "^3.0.4",
+    "gulp-webserver": "^0.9.0",
+    "run-sequence": "^1.0.2",
+    "selenium-server": "^2.43.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
