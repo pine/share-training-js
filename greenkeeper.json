@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "game/package.json"
+      ]
+    }
+  }
+}
